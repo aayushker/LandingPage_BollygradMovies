@@ -1,7 +1,7 @@
 'use client'
 
 import Carousel from '../Carousel'
-import { Video } from '../types/video'
+import { Video } from '../../app/types/video'
 
 const videos: Video[] = [
   {
