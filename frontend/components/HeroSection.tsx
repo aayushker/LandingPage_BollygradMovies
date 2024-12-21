@@ -5,7 +5,7 @@ const HeroSection = () => {
   return (
     <div className="relative h-screen">
       <video
-        className="w-full h-full object-cover mt-2.5" 
+        className="w-full h-full object-cover mt-2.5"
         autoPlay
         loop
         muted

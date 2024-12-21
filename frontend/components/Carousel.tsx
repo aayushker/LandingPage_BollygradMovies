@@ -4,7 +4,7 @@ import { useState, useRef, useEffect } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import VideoCard from "./VideoCard";
-import { Video } from "../types/video";
+import { Video } from "../app/types/video";
 
 interface CarouselProps {
   title: string;

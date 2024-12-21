@@ -5,4 +5,3 @@ export type Video = {
   thumbnail: string;
   youtubeLink: string;
 };
-
